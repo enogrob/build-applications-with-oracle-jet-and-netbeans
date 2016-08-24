@@ -21,16 +21,16 @@ Over the next three weeks, you will learn:
 
 ```
 Week 1: "Taking Off with Oracle JET": Architecture, Modularity, and Data Binding
-[] Watch this video first - About this Oracle JET MOOC (4:20)
-[] Oracle JET MOOC: Lesson 1, Part 1 - Overview (10:00)
-[] Oracle JET MOOC: Lesson 1, Part 2 - Modularity (12:00)
-[] Oracle JET MOOC: Lesson 1, Part 3 - Advanced Modularity (4:00)
-[] Oracle JET MOOC: Lesson 1, Part 4 - Data Binding (9:00)
-[] Oracle JET MOOC: Lesson 1, Part 5 - Components (4:00)
-[] Oracle JET MOOC: Lesson 1, Part 6 - HTML Templates (4:00)
-[] Oracle JET MOOC: Lesson 1, Part 7 - Oracle JET (13:30)
-[] Oracle JET MOOC: Lesson 1, Part 8 - Oracle JET Modules (10:00)
-[] Oracle JET MOOC: Lesson 1, Part 9 - Oracle JET UI Components (13:00)
-[] Oracle JET MOOC: Lesson 1, Part 10 - Oracle JET Layouts (10:00)
-[] Quiz for Week 1
+[x] Watch this video first - About this Oracle JET MOOC (4:20)
+[x] Oracle JET MOOC: Lesson 1, Part 1 - Overview (10:00)
+[x] Oracle JET MOOC: Lesson 1, Part 2 - Modularity (12:00)
+[ ] Oracle JET MOOC: Lesson 1, Part 3 - Advanced Modularity (4:00)
+[ ] Oracle JET MOOC: Lesson 1, Part 4 - Data Binding (9:00)
+[ ] Oracle JET MOOC: Lesson 1, Part 5 - Components (4:00)
+[ ] Oracle JET MOOC: Lesson 1, Part 6 - HTML Templates (4:00)
+[ ] Oracle JET MOOC: Lesson 1, Part 7 - Oracle JET (13:30)
+[ ] Oracle JET MOOC: Lesson 1, Part 8 - Oracle JET Modules (10:00)
+[ ] Oracle JET MOOC: Lesson 1, Part 9 - Oracle JET UI Components (13:00)
+[ ] Oracle JET MOOC: Lesson 1, Part 10 - Oracle JET Layouts (10:00)
+[ ] Quiz for Week 1
 ```
