@@ -17,7 +17,10 @@ Over the next three weeks, you will learn:
 * To integrate Oracle JET applications with JQuery components and the Oracle Cloud
 * The full development cycle of Oracle JET applications
 
-## Table of Contents
+<img src="images/screenshot.png" style="width: 600px;"/>
+
+
+**Table of Contents**
 
 ```
 Week 1: "Taking Off with Oracle JET": Architecture, Modularity, and Data Binding
